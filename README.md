@@ -16,6 +16,9 @@
 * How to test Microservice ?
 * Workshop
 
+## Software requirments
+* [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [ItelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download)
 
 ## Workshop 
 * [Spring Boot Testing](https://github.com/up1/demo-microservice-testing)
