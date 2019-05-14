@@ -16,7 +16,7 @@
 * How to test Microservice ?
 * Workshop
 
-## Software requirments
+## Software requirements
 * [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [ItelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download)
 
